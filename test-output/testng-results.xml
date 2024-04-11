@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-11T14:50:52 IST" name="Default suite" finished-at="2024-04-11T14:51:33 IST" duration-ms="40641">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T14:50:52 IST" name="Default test" finished-at="2024-04-11T14:51:33 IST" duration-ms="40641">
+      <class name="testScripts.LoginUsingProperties">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testScripts.LoginUsingProperties@17497425]" started-at="2024-04-11T14:50:52 IST" name="setUp" finished-at="2024-04-11T14:51:31 IST" duration-ms="38609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="login()[pri:0, instance:testScripts.LoginUsingProperties@17497425]" started-at="2024-04-11T14:51:31 IST" name="login" finished-at="2024-04-11T14:51:32 IST" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testScripts.LoginUsingProperties@17497425]" started-at="2024-04-11T14:51:32 IST" name="tearDown" finished-at="2024-04-11T14:51:33 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.LoginUsingProperties -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
